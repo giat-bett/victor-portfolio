@@ -1,0 +1,14 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,180 C320,220 420,120 640,150 C860,180 980,80 1200,110 C1420,140 1440,180 1440,180" stroke="url(#gold-gradient)" stroke-width="0.5" stroke-opacity="0.3" fill="none">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,180 C320,220 420,120 640,150 C860,180 980,80 1200,110 C1420,140 1440,180 1440,180;
+              M0,150 C320,180 420,80 640,110 C860,140 980,40 1200,70 C1420,100 1440,150 1440,150;
+              M0,180 C320,220 420,120 640,150 C860,180 980,80 1200,110 C1420,140 1440,180 1440,180"/>
+  </path>
+  <defs>
+    <linearGradient id="gold-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+  </defs>
+</svg>
