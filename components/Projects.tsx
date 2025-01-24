@@ -37,7 +37,7 @@ const projects = [
     title: "Geecko Holdings Limited",
     description: "Geecko Holdings Limited is a company that provides a wide range of services, mostly Software as a Service.",
     type: "Web App",
-    technologies: ["Django", "Bootstrap", "PostgreSQL"],
+    technologies: ["Django", "Bootstrap", "SQL"],
     image: "/images/geecko/home.png?height=400&width=600"
   },
   {
