@@ -39,6 +39,14 @@ const projects = [
     type: "Web App",
     technologies: ["Django", "Bootstrap", "PostgreSQL"],
     image: "/images/geecko/home.png?height=400&width=600"
+  },
+  {
+    id: "keeg-site",
+    title: "Kiptenden Education Empowerment Program",
+    description: "This is a website for KEEG to enhance visibility to the good work they are doing for the students of Kipkelion East Constituencey, specificaly Chepseon ward.",
+    type: "Web App",
+    technologies: ["NextJs", "Tailwind", "ReactDOM"],
+    image: "/images/keeg/home.png?height=400&width=600"
   }
 ]
 
